@@ -9,7 +9,7 @@
 
 Translatoroo is a Gap-fill quiz app built with React Native and [Expo](https://docs.expo.dev/)
 
-[Screen Recording](https://res.cloudinary.com/cortehz/image/upload/v1644144011/react-native-quiz/GIF-2022-02-06-11-39-06.gif)
+<img alt="Screen Recording" longdesc="Screen Recording" src="https://res.cloudinary.com/cortehz/image/upload/v1644144011/react-native-quiz/GIF-2022-02-06-11-39-06.gif" />
 
 
 ## 🚀 How to use
