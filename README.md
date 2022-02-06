@@ -29,5 +29,5 @@ yarn install && yarn ios
 #### Dependencies & Technologies
 
 - React Native and [Expo](https://docs.expo.dev/)
-- (Firebase)[https://firebase.google.com/] (Real time database) for Question and Mini German - English Dictionary
+- [Firebase](https://firebase.google.com/) (Real time database) for Question and Mini German - English Dictionary
 - [Styled-Components](https://styled-components.com/) for styling components
