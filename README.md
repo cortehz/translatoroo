@@ -9,11 +9,8 @@
 
 Translatoroo is a Gap-fill quiz app built with React Native and [Expo](https://docs.expo.dev/)
 
-[Screen Recording](https://res.cloudinary.com/cortehz/video/upload/v1644142788/react-native-quiz/Simulator_Screen_Recording_-_iPhone_13_-_2022-02-06_at_11.01.04.mov)
+[Screen Recording](https://res.cloudinary.com/cortehz/image/upload/v1644144011/react-native-quiz/GIF-2022-02-06-11-39-06.gif)
 
-<video width="350" height="844" controls>
-  <source src="https://res.cloudinary.com/cortehz/video/upload/v1644142788/react-native-quiz/Simulator_Screen_Recording_-_iPhone_13_-_2022-02-06_at_11.01.04.mov" type="video/mp4">
-</video>
 
 ## 🚀 How to use
 
@@ -32,5 +29,5 @@ yarn install && yarn ios
 #### Dependencies & Technologies
 
 - React Native and [Expo](https://docs.expo.dev/)
-- Firebase (Real time database) (Firebase)[https://firebase.google.com/]
-- [Styled-Components](https://styled-components.com/)
+- (Firebase)[https://firebase.google.com/] (Real time database) for Question and Mini German - English Dictionary
+- [Styled-Components](https://styled-components.com/) for styling components
