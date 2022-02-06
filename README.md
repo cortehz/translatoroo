@@ -9,7 +9,11 @@
 
 Translatoroo is a Gap-fill quiz app built with React Native and [Expo](https://docs.expo.dev/)
 
-![Screen Recording](https://res.cloudinary.com/cortehz/video/upload/v1644142788/react-native-quiz/Simulator_Screen_Recording_-_iPhone_13_-_2022-02-06_at_11.01.04.mov)
+[Screen Recording](https://res.cloudinary.com/cortehz/video/upload/v1644142788/react-native-quiz/Simulator_Screen_Recording_-_iPhone_13_-_2022-02-06_at_11.01.04.mov)
+
+<video width="350" height="844" controls>
+  <source src="https://res.cloudinary.com/cortehz/video/upload/v1644142788/react-native-quiz/Simulator_Screen_Recording_-_iPhone_13_-_2022-02-06_at_11.01.04.mov" type="video/mp4">
+</video>
 
 ## 🚀 How to use
 
@@ -18,11 +22,11 @@ git clone https://github.com/cortehz/translatoroo.git
 ```
 
 ```sh
-yarn install
+cd translatoroo
 ```
 
 ```sh
-cd translatoroo && yarn ios
+yarn install && yarn ios
 ```
 
 #### Dependencies & Technologies
